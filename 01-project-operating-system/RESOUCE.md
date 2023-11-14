@@ -1,0 +1,1 @@
+* [Book Operating System Concepts ](https://www.amazon.sa/Abraham-Silberschatz/dp/0470233990/ref=sr_1_3?crid=1G3SCQZRSFNNI&keywords=operating+system+concepts&qid=1699175483&sprefix=operatin+system+concept%2Caps%2C201&sr=8-3)
